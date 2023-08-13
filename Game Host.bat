@@ -1,0 +1,1 @@
+start FlaxEngine/Binaries/Editor/Win64/Development/FlaxEditor.exe -project "SpaceRiskGame" -play 362b418c43b31919b71055b252931fb3 -fullscreen -std -l Host.launch

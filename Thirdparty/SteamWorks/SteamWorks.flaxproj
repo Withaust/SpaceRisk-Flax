@@ -1,0 +1,14 @@
+{
+  "Name": "SteamWorks",
+  "Version": "1.0",
+  "MinEngineVersion": "1.5",
+  "Company": "Unary Software",
+  "Copyright": "Copyright (c) 2023 Unary Software. All rights reserved.",
+  "GameTarget": "SteamWorksTarget",
+  "EditorTarget": "SteamWorksEditorTarget",
+  "References": [
+    {
+      "Name": "$(EnginePath)/Flax.flaxproj"
+    }
+  ]
+}

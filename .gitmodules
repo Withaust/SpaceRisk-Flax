@@ -1,0 +1,9 @@
+[submodule "SpaceRiskGame"]
+	path = SpaceRiskGame
+	url = https://github.com/UnarySoftware/SpaceRiskGame
+[submodule "FlaxEngine"]
+	path = FlaxEngine
+	url = https://github.com/UnarySoftware/FlaxEngine
+[submodule "Thirdparty/RmlUi"]
+	path = Thirdparty/RmlUi
+	url = https://github.com/UnarySoftware/RmlUi

@@ -1,0 +1,14 @@
+{
+  "Name": "GameAnalytics",
+  "Version": "3.2.1",
+  "MinEngineVersion": "1.5",
+  "Company": "Game Analytics",
+  "Copyright": "Copyright (c) 2016 Game Analytics",
+  "GameTarget": "GameAnalyticsTarget",
+  "EditorTarget": "GameAnalyticsEditorTarget",
+  "References": [
+    {
+      "Name": "$(EnginePath)/Flax.flaxproj"
+    }
+  ]
+}
