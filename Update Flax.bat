@@ -1,7 +1,6 @@
 @echo off
 
-cd FlaxEngine
-git restore .
-git pull
-
-msg %username% Updated Flax successfully!
+rmdir /s /q "FlaxEngine"
+git clone https://github.com/FlaxEngine/FlaxEngine
+call Clear.bat
+call Build.bat

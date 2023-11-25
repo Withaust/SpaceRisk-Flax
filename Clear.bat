@@ -62,5 +62,3 @@ echo [92m===========================================[0m
 echo [92mCleared RmlUi successfully[0m
 echo [92m===========================================[0m
 timeout 2
-
-msg %username% Successfully cleared everything!

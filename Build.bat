@@ -40,4 +40,14 @@ echo [92mBuilt GameEditorTarget successfully[0m
 echo [92m===========================================[0m
 timeout 2
 
-msg %username% Successfully built everything!
+cd ..
+
+"FlaxEngine/Binaries/Editor/Win64/Development/FlaxEditor.exe" -project "SpaceRiskGame" -genProjectFiles
+
+timeout 2
+echo [92m===========================================[0m
+echo [92mGenerated VS projects successfully[0m
+echo [92m===========================================[0m
+timeout 2
+
+pause
