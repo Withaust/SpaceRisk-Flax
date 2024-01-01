@@ -1,0 +1,1 @@
+start FlaxEngine/Binaries/Editor/Win64/Development/FlaxEditor.exe -project "SpaceRiskGame" -play 362b418c43b31919b71055b252931fb3 -std -name Host -popout -size 2560x1440 -position 0x0 -nofocus

@@ -1,0 +1,2 @@
+start FlaxEngine/Binaries/Editor/Win64/Development/FlaxEditor.exe -project "SpaceRiskGame" -play 362b418c43b31919b71055b252931fb3 -std -name Client1 -hostname localhost -popout -size 1280x1440 -position 2560x0 -nofocus
+start FlaxEngine/Binaries/Editor/Win64/Development/FlaxEditor.exe -project "SpaceRiskGame" -play 362b418c43b31919b71055b252931fb3 -std -name Client2 -hostname localhost -popout -size 1280x1440 -position 3840x0 -nofocus
